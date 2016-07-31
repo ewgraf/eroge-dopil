@@ -1,9 +1,0 @@
-В этой папке хранятся основные ресурсы игры - images, sounds etc.
-Возможно вбудущем стоит выделить егов одтельный репозиторий, т.к. рекомендуемый объем github-репа 1Гб
-Чтобы правильно ссылаться на это хранилище, нужно изменять пути во всех .rpy
-Пример с картинками:
-image bg ext_house_of_dv_night                  = "images/bg/ext_house_of_dv_night.jpg"
-на
-image bg ext_house_of_dv_night                  = "../../storage/images/bg/ext_house_of_dv_night.jpg"
-
-Используя SublimeText можно довольно быстро делать это руками, но можно будет и запилить скрипт
