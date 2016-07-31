@@ -1,0 +1,1911 @@
+Структура папок
+D:.
+|   list.txt
+|   tree.txt
+|   
++---filters
+|       sepia.png
+|       
++---images
+|   +---anim
+|   |   |   blink_down.png
+|   |   |   blink_up.png
+|   |   |   candle_1.png
+|   |   |   candle_2.png
+|   |   |   intro_1.jpg
+|   |   |   intro_10.jpg
+|   |   |   intro_11.jpg
+|   |   |   intro_12.jpg
+|   |   |   intro_13.jpg
+|   |   |   intro_14.jpg
+|   |   |   intro_15.jpg
+|   |   |   intro_16.jpg
+|   |   |   intro_2.jpg
+|   |   |   intro_3.jpg
+|   |   |   intro_4.jpg
+|   |   |   intro_5.jpg
+|   |   |   intro_6.jpg
+|   |   |   intro_7.jpg
+|   |   |   intro_8.jpg
+|   |   |   intro_9.jpg
+|   |   |   owl_1.png
+|   |   |   owl_2.png
+|   |   |   prologue_1.png
+|   |   |   prologue_2.png
+|   |   |   prologue_3.png
+|   |   |   prologue_keyboard_1.jpg
+|   |   |   prologue_keyboard_2.jpg
+|   |   |   prologue_keyboard_3.jpg
+|   |   |   prologue_keyboard_4.jpg
+|   |   |   prologue_keyboard_monitor_1.jpg
+|   |   |   prologue_keyboard_monitor_2.jpg
+|   |   |   prologue_keyboard_monitor_3.jpg
+|   |   |   prologue_keyboard_monitor_4.jpg
+|   |   |   prologue_monitor_1.jpg
+|   |   |   prologue_monitor_2.jpg
+|   |   |   prologue_monitor_3.jpg
+|   |   |   prologue_monitor_4.jpg
+|   |   |   prolog_1.jpg
+|   |   |   prolog_10.jpg
+|   |   |   prolog_11.jpg
+|   |   |   prolog_14.jpg
+|   |   |   prolog_15.jpg
+|   |   |   prolog_2.jpg
+|   |   |   prolog_3.jpg
+|   |   |   prolog_4.jpg
+|   |   |   prolog_5.jpg
+|   |   |   snow.png
+|   |   |   stars_1.jpg
+|   |   |   stars_3.jpg
+|   |   |   stars_3o.jpg
+|   |   |   
+|   |   \---backdrop
+|   |           1.png
+|   |           2.png
+|   |           3.png
+|   |           back.jpg
+|   |           
+|   +---avatars
+|   |   +---dv
+|   |   |       dv-body.png
+|   |   |       dv-emo10.png
+|   |   |       dv-emo11.png
+|   |   |       dv-emo12.png
+|   |   |       dv-emo13.png
+|   |   |       dv-emo3.png
+|   |   |       dv-emo4.png
+|   |   |       dv-emo5.png
+|   |   |       dv-emo6.png
+|   |   |       dv-emo7.png
+|   |   |       dv-emo8.png
+|   |   |       dv-emo9.png
+|   |   |       dv-smile.png
+|   |   |       dv-smile2.png
+|   |   |       
+|   |   +---sl
+|   |   |       sl-body.png
+|   |   |       sl-emo01.png
+|   |   |       sl-emo02.png
+|   |   |       sl-emo03.png
+|   |   |       sl-emo04.png
+|   |   |       sl-emo05.png
+|   |   |       sl-emo06.png
+|   |   |       sl-emo07.png
+|   |   |       sl-emo08.png
+|   |   |       sl-emo09.png
+|   |   |       sl-emo10.png
+|   |   |       sl-emo11.png
+|   |   |       
+|   |   +---un
+|   |   |       un-body.png
+|   |   |       un-emo01.png
+|   |   |       un-emo02.png
+|   |   |       un-emo03.png
+|   |   |       un-emo04.png
+|   |   |       un-emo05.png
+|   |   |       un-emo06.png
+|   |   |       un-emo07.png
+|   |   |       un-emo08.png
+|   |   |       un-emo09.png
+|   |   |       un-emo10.png
+|   |   |       un-emo11.png
+|   |   |       
+|   |   \---us
+|   |           us-body.png
+|   |           us-emo01.png
+|   |           us-emo02.png
+|   |           us-emo03.png
+|   |           us-emo04.png
+|   |           us-emo05.png
+|   |           us-emo06.png
+|   |           us-emo07.png
+|   |           us-emo08.png
+|   |           us-emo09.png
+|   |           us-emo10.png
+|   |           us-emo11.png
+|   |           us-emo12.png
+|   |           
+|   +---bg
+|   |       bus_stop.jpg
+|   |       ext_aidpost_day.jpg
+|   |       ext_aidpost_night.jpg
+|   |       ext_bathhouse_night.jpg
+|   |       ext_beach_day.jpg
+|   |       ext_beach_night.jpg
+|   |       ext_beach_sunset.jpg
+|   |       ext_boathouse_day.jpg
+|   |       ext_boathouse_night.jpg
+|   |       ext_bus.jpg
+|   |       ext_bus_night.jpg
+|   |       ext_camp_entrance_day.jpg
+|   |       ext_camp_entrance_night.jpg
+|   |       ext_clubs_day.jpg
+|   |       ext_clubs_night.jpg
+|   |       ext_dining_hall_away_day.jpg
+|   |       ext_dining_hall_away_night.jpg
+|   |       ext_dining_hall_away_sunset.jpg
+|   |       ext_dining_hall_near_day.jpg
+|   |       ext_dining_hall_near_night.jpg
+|   |       ext_dining_hall_near_sunset.jpg
+|   |       ext_houses_day.jpg
+|   |       ext_houses_sunset.jpg
+|   |       ext_house_of_dv_day.jpg
+|   |       ext_house_of_dv_night.jpg
+|   |       ext_house_of_mt_day.jpg
+|   |       ext_house_of_mt_night.jpg
+|   |       ext_house_of_mt_night_without_light.jpg
+|   |       ext_house_of_mt_sunset.jpg
+|   |       ext_house_of_sl_day.jpg
+|   |       ext_house_of_un_day.jpg
+|   |       ext_island_day.jpg
+|   |       ext_island_night.jpg
+|   |       ext_library_day.jpg
+|   |       ext_library_night.jpg
+|   |       ext_musclub_day.jpg
+|   |       ext_no_bus.jpg
+|   |       ext_no_bus_night.jpg
+|   |       ext_no_bus_sunset.jpg
+|   |       ext_old_building_night.jpg
+|   |       ext_old_building_night_moonlight.jpg
+|   |       ext_path2_day.jpg
+|   |       ext_path2_night.jpg
+|   |       ext_path_day.jpg
+|   |       ext_path_night.jpg
+|   |       ext_path_sunset.jpg
+|   |       ext_playground_day.jpg
+|   |       ext_playground_night.jpg
+|   |       ext_polyana_day.jpg
+|   |       ext_polyana_night.jpg
+|   |       ext_polyana_sunset.jpg
+|   |       ext_road_day.jpg
+|   |       ext_road_night.jpg
+|   |       ext_road_night2.jpg
+|   |       ext_road_sunset.jpg
+|   |       ext_square_day.jpg
+|   |       ext_square_day_city.jpg
+|   |       ext_square_night.jpg
+|   |       ext_square_night_party.jpg
+|   |       ext_square_night_party2.jpg
+|   |       ext_square_sunset.jpg
+|   |       ext_stage_big_night.jpg
+|   |       ext_stage_normal_day.jpg
+|   |       ext_stage_normal_night.jpg
+|   |       ext_washstand2_day.jpg
+|   |       ext_washstand_day.jpg
+|   |       intro_xx.jpg
+|   |       int_aidpost_day.jpg
+|   |       int_aidpost_day_apple.jpg
+|   |       int_aidpost_night.jpg
+|   |       int_bus.jpg
+|   |       int_bus_black.jpg
+|   |       int_bus_night.jpg
+|   |       int_bus_people_day.jpg
+|   |       int_bus_people_night.jpg
+|   |       int_catacombs_door.jpg
+|   |       int_catacombs_entrance.jpg
+|   |       int_catacombs_hole.jpg
+|   |       int_catacombs_living.jpg
+|   |       int_catacombs_living_nodoor.jpg
+|   |       int_clubs_male2_night.jpg
+|   |       int_clubs_male2_night_nolight.jpg
+|   |       int_clubs_male_day.jpg
+|   |       int_clubs_male_sunset.jpg
+|   |       int_dining_hall_day.jpg
+|   |       int_dining_hall_night.jpg
+|   |       int_dining_hall_people_day.jpg
+|   |       int_dining_hall_sunset.jpg
+|   |       int_house_of_dv_day.jpg
+|   |       int_house_of_dv_night.jpg
+|   |       int_house_of_mt_day.jpg
+|   |       int_house_of_mt_night.jpg
+|   |       int_house_of_mt_night2.jpg
+|   |       int_house_of_mt_noitem_night.jpg
+|   |       int_house_of_mt_sunset.jpg
+|   |       int_house_of_sl_day.jpg
+|   |       int_house_of_un_day.jpg
+|   |       int_house_of_un_night.jpg
+|   |       int_liaz.jpg
+|   |       int_library_day.jpg
+|   |       int_library_night.jpg
+|   |       int_library_night2.jpg
+|   |       int_mine.jpg
+|   |       int_mine_coalface.jpg
+|   |       int_mine_crossroad.jpg
+|   |       int_mine_door.jpg
+|   |       int_mine_exit_night_light.jpg
+|   |       int_mine_exit_night_nolight.jpg
+|   |       int_mine_exit_night_torch.jpg
+|   |       int_mine_halt.jpg
+|   |       int_mine_room.jpg
+|   |       int_musclub_day.jpg
+|   |       int_old_building_night.jpg
+|   |       semen_room.jpg
+|   |       semen_room_window.jpg
+|   |       
+|   +---cards
+|   |       10_2ch.png
+|   |       10_ussr.png
+|   |       10_utan.png
+|   |       10_uvao.png
+|   |       11_2ch.png
+|   |       11_ussr.png
+|   |       11_utan.png
+|   |       11_uvao.png
+|   |       12_2ch.png
+|   |       12_ussr.png
+|   |       12_utan.png
+|   |       12_uvao.png
+|   |       13_2ch.png
+|   |       13_ussr.png
+|   |       13_utan.png
+|   |       13_uvao.png
+|   |       1_2ch.png
+|   |       1_ussr.png
+|   |       1_utan.png
+|   |       1_uvao.png
+|   |       2_2ch.png
+|   |       2_ussr.png
+|   |       2_utan.png
+|   |       2_uvao.png
+|   |       3_2ch.png
+|   |       3_ussr.png
+|   |       3_utan.png
+|   |       3_uvao.png
+|   |       4_2ch.png
+|   |       4_ussr.png
+|   |       4_utan.png
+|   |       4_uvao.png
+|   |       5_2ch.png
+|   |       5_ussr.png
+|   |       5_utan.png
+|   |       5_uvao.png
+|   |       6_2ch.png
+|   |       6_ussr.png
+|   |       6_utan.png
+|   |       6_uvao.png
+|   |       7_2ch.png
+|   |       7_ussr.png
+|   |       7_utan.png
+|   |       7_uvao.png
+|   |       8_2ch.png
+|   |       8_ussr.png
+|   |       8_utan.png
+|   |       8_uvao.png
+|   |       9_2ch.png
+|   |       9_ussr.png
+|   |       9_utan.png
+|   |       9_uvao.png
+|   |       cover.png
+|   |       
+|   +---cg
+|   |   |   d1_food_normal.jpg
+|   |   |   d1_food_skolop.jpg
+|   |   |   d1_grasshopper.jpg
+|   |   |   d1_rena_sunset.jpg
+|   |   |   d1_sl_dinner.jpg
+|   |   |   d1_sl_dinner_0.jpg
+|   |   |   d1_uv.jpg
+|   |   |   d1_uv_2.jpg
+|   |   |   d2_2ch_beach.jpg
+|   |   |   d2_lineup.jpg
+|   |   |   d2_micu_lib.jpg
+|   |   |   d2_miku_piano.jpg
+|   |   |   d2_miku_piano2.jpg
+|   |   |   d2_mirror.jpg
+|   |   |   d2_mt_undressed.jpg
+|   |   |   d2_mt_undressed_2.jpg
+|   |   |   d2_slavya_forest.jpg
+|   |   |   d2_sl_swim.jpg
+|   |   |   d2_sovenok.jpg
+|   |   |   d2_ussr_falling.jpg
+|   |   |   d2_water_dan.jpg
+|   |   |   d3_disco.jpg
+|   |   |   d3_dv_guitar.jpg
+|   |   |   d3_dv_scene_1.jpg
+|   |   |   d3_dv_scene_2.jpg
+|   |   |   d3_sl_bathhouse.jpg
+|   |   |   d3_sl_dance.jpg
+|   |   |   d3_sl_evening.jpg
+|   |   |   d3_sl_library.jpg
+|   |   |   d3_soccer.jpg
+|   |   |   d3_un_dance.jpg
+|   |   |   d3_un_forest.jpg
+|   |   |   d3_ussr_catched.jpg
+|   |   |   d3_us_dinner.jpg
+|   |   |   d3_us_library_1.jpg
+|   |   |   d3_us_library_2.jpg
+|   |   |   d3_us_library_3.jpg
+|   |   |   d3_us_library_4.jpg
+|   |   |   d4_catac.jpg
+|   |   |   d4_catac_dv.jpg
+|   |   |   d4_catac_sl.jpg
+|   |   |   d4_catac_un.jpg
+|   |   |   d4_catac_us.jpg
+|   |   |   d4_catac_us_2.jpg
+|   |   |   d4_dv_mt.jpg
+|   |   |   d4_el_wash.jpg
+|   |   |   d4_mi_guitar.jpg
+|   |   |   d4_mi_sing.jpg
+|   |   |   d4_sh_sit.jpg
+|   |   |   d4_sh_stay.jpg
+|   |   |   d4_us_cancer.jpg
+|   |   |   d4_us_morning.jpg
+|   |   |   d4_uv.jpg
+|   |   |   d4_uv_1.jpg
+|   |   |   d5_boat.jpg
+|   |   |   d5_boat_2.jpg
+|   |   |   d5_cake.jpg
+|   |   |   d5_clubs_robot.jpg
+|   |   |   d5_cs.jpg
+|   |   |   d5_dv_argue.jpg
+|   |   |   d5_dv_argue_2.jpg
+|   |   |   d5_dv_argue_3.jpg
+|   |   |   d5_dv_island.jpg
+|   |   |   d5_dv_us_wash.jpg
+|   |   |   d5_dv_us_wash_2.jpg
+|   |   |   d5_dv_us_wash_3.jpg
+|   |   |   d5_dv_us_wash_4.jpg
+|   |   |   d5_mi.jpg
+|   |   |   d5_sh_us.jpg
+|   |   |   d5_sl_sleep.jpg
+|   |   |   d5_sl_sleep_2.jpg
+|   |   |   d5_strawberry_race.jpg
+|   |   |   d5_un_island.jpg
+|   |   |   d5_un_sleep.jpg
+|   |   |   d5_us_ghost.jpg
+|   |   |   d5_us_ghost_2.jpg
+|   |   |   d5_us_kiss.jpg
+|   |   |   d5_us_sit.jpg
+|   |   |   d5_uv.jpg
+|   |   |   d5_uv_2.jpg
+|   |   |   d6_dv_fight.jpg
+|   |   |   d6_dv_fight_2.jpg
+|   |   |   d6_dv_fight_3.jpg
+|   |   |   d6_dv_hentai.jpg
+|   |   |   d6_dv_hentai_2.jpg
+|   |   |   d6_pioneer.jpg
+|   |   |   d6_sl_forest.jpg
+|   |   |   d6_sl_forest_2.jpg
+|   |   |   d6_sl_hentai_1.jpg
+|   |   |   d6_sl_hentai_2.jpg
+|   |   |   d6_sl_swim.jpg
+|   |   |   d6_un_evening_1.jpg
+|   |   |   d6_un_evening_2.jpg
+|   |   |   d6_un_punch.jpg
+|   |   |   d6_us_film.jpg
+|   |   |   d6_us_night_2.jpg
+|   |   |   d6_uv.jpg
+|   |   |   d6_uv_2.jpg
+|   |   |   d7_dv.jpg
+|   |   |   d7_dv_2.jpg
+|   |   |   d7_pioneers_leaving.jpg
+|   |   |   d7_pioneers_leaving_without_us.jpg
+|   |   |   d7_sl_morning.jpg
+|   |   |   d7_sl_morning_2.jpg
+|   |   |   d7_un_hentai.jpg
+|   |   |   d7_un_hentai_3.jpg
+|   |   |   d7_un_suicide.jpg
+|   |   |   d7_uv.jpg
+|   |   |   day4_us_morning.jpg
+|   |   |   epilogue_dv_2.jpg
+|   |   |   epilogue_dv_3.jpg
+|   |   |   epilogue_mi_1.jpg
+|   |   |   epilogue_mi_2.jpg
+|   |   |   epilogue_mi_3.jpg
+|   |   |   epilogue_mi_4.jpg
+|   |   |   epilogue_mi_5.jpg
+|   |   |   epilogue_mi_6.jpg
+|   |   |   epilogue_mi_7.jpg
+|   |   |   epilogue_mi_8.jpg
+|   |   |   epilogue_mi_9.jpg
+|   |   |   epilogue_sl.jpg
+|   |   |   epilogue_sl_2.jpg
+|   |   |   epilogue_un.jpg
+|   |   |   epilogue_un_bad.jpg
+|   |   |   epilogue_un_good.jpg
+|   |   |   epilogue_us.jpg
+|   |   |   epilogue_us_3_a.jpg
+|   |   |   epilogue_us_alone.jpg
+|   |   |   epilogue_uv.jpg
+|   |   |   epilogue_uv_2.jpg
+|   |   |   epilogue_uv_dv.jpg
+|   |   |   epilogue_uv_mi.jpg
+|   |   |   epilogue_uv_sl.jpg
+|   |   |   epilogue_uv_un.jpg
+|   |   |   epilogue_uv_us.jpg
+|   |   |   epilogue_uv_uv.jpg
+|   |   |   final_all_2.jpg
+|   |   |   miku_h_1_cenz.jpg
+|   |   |   miku_h_2_cenz.jpg
+|   |   |   uvao_h_cenz.jpg
+|   |   |   
+|   |   \---cards_contest
+|   |           lvl_1.jpg
+|   |           lvl_2_lena_win.jpg
+|   |           lvl_2_semen_win.jpg
+|   |           lvl_4_semen_win.jpg
+|   |           
+|   +---gui
+|   |   +---choice
+|   |   |   +---day
+|   |   |   |       choice_box.png
+|   |   |   |       
+|   |   |   +---night
+|   |   |   |       choice_box.png
+|   |   |   |       
+|   |   |   +---prologue
+|   |   |   |       choice_box.png
+|   |   |   |       
+|   |   |   \---sunset
+|   |   |           choice_box.png
+|   |   |           
+|   |   +---dialogue_box
+|   |   |   +---day
+|   |   |   |       backward_hover.png
+|   |   |   |       backward_idle.png
+|   |   |   |       dialogue_box.png
+|   |   |   |       dialogue_box_large.png
+|   |   |   |       fast_forward_hover.png
+|   |   |   |       fast_forward_idle.png
+|   |   |   |       forward_hover.png
+|   |   |   |       forward_idle.png
+|   |   |   |       hide_hover.png
+|   |   |   |       hide_idle.png
+|   |   |   |       load_hover.png
+|   |   |   |       load_idle.png
+|   |   |   |       menu_hover.png
+|   |   |   |       menu_idle.png
+|   |   |   |       save_hover.png
+|   |   |   |       save_idle.png
+|   |   |   |       
+|   |   |   +---night
+|   |   |   |       backward_hover.png
+|   |   |   |       backward_idle.png
+|   |   |   |       dialogue_box.png
+|   |   |   |       dialogue_box_large.png
+|   |   |   |       fast_forward_hover.png
+|   |   |   |       fast_forward_idle.png
+|   |   |   |       forward_hover.png
+|   |   |   |       forward_idle.png
+|   |   |   |       hide_hover.png
+|   |   |   |       hide_idle.png
+|   |   |   |       load_hover.png
+|   |   |   |       load_idle.png
+|   |   |   |       menu_hover.png
+|   |   |   |       menu_idle.png
+|   |   |   |       save_hover.png
+|   |   |   |       save_idle.png
+|   |   |   |       
+|   |   |   +---prologue
+|   |   |   |       backward_hover.png
+|   |   |   |       backward_idle.png
+|   |   |   |       dialogue_box.png
+|   |   |   |       dialogue_box_large.png
+|   |   |   |       fast_forward_hover.png
+|   |   |   |       fast_forward_idle.png
+|   |   |   |       forward_hover.png
+|   |   |   |       forward_idle.png
+|   |   |   |       hide_hover.png
+|   |   |   |       hide_idle.png
+|   |   |   |       load_hover.png
+|   |   |   |       load_idle.png
+|   |   |   |       menu_hover.png
+|   |   |   |       menu_idle.png
+|   |   |   |       save_hover.png
+|   |   |   |       save_idle.png
+|   |   |   |       
+|   |   |   \---sunset
+|   |   |           backward_hover.png
+|   |   |           backward_idle.png
+|   |   |           dialogue_box.png
+|   |   |           dialogue_box_large.png
+|   |   |           fast_forward_hover.png
+|   |   |           fast_forward_idle.png
+|   |   |           forward_hover.png
+|   |   |           forward_idle.png
+|   |   |           hide_hover.png
+|   |   |           hide_idle.png
+|   |   |           load_hover.png
+|   |   |           load_idle.png
+|   |   |           menu_hover.png
+|   |   |           menu_idle.png
+|   |   |           save_hover.png
+|   |   |           save_idle.png
+|   |   |           
+|   |   +---gallery
+|   |   |       blank.png
+|   |   |       not_opened_idle.png
+|   |   |       thumbnail_hover.png
+|   |   |       thumbnail_idle.png
+|   |   |       
+|   |   +---ingame_menu
+|   |   |   +---day
+|   |   |   |       ingame_menu.png
+|   |   |   |       ingame_menu_en_ground.png
+|   |   |   |       ingame_menu_en_hover.png
+|   |   |   |       ingame_menu_ground.png
+|   |   |   |       ingame_menu_hover.png
+|   |   |   |       
+|   |   |   +---night
+|   |   |   |       ingame_menu.png
+|   |   |   |       ingame_menu_en_ground.png
+|   |   |   |       ingame_menu_en_hover.png
+|   |   |   |       ingame_menu_ground.png
+|   |   |   |       ingame_menu_hover.png
+|   |   |   |       
+|   |   |   +---prologue
+|   |   |   |       ingame_menu.png
+|   |   |   |       ingame_menu_en_ground.png
+|   |   |   |       ingame_menu_en_hover.png
+|   |   |   |       ingame_menu_ground.png
+|   |   |   |       ingame_menu_hover.png
+|   |   |   |       
+|   |   |   \---sunset
+|   |   |           ingame_menu.png
+|   |   |           ingame_menu_en_ground.png
+|   |   |           ingame_menu_en_hover.png
+|   |   |           ingame_menu_ground.png
+|   |   |           ingame_menu_hover.png
+|   |   |           
+|   |   +---o_rly
+|   |   |       base.png
+|   |   |       
+|   |   +---save_load
+|   |   |       load_bg.jpg
+|   |   |       save_bg.jpg
+|   |   |       thumbnail_hover.png
+|   |   |       thumbnail_idle.png
+|   |   |       thumbnail_selected.png
+|   |   |       
+|   |   +---settings
+|   |   |       bar_full.png
+|   |   |       bar_null.png
+|   |   |       history_bg.jpg
+|   |   |       leaf.png
+|   |   |       preferences_bg.jpg
+|   |   |       star.png
+|   |   |       vbar_full.png
+|   |   |       vbar_null.png
+|   |   |       vthumb.png
+|   |   |       
+|   |   \---title_menu
+|   |           mainmenu_en_ground.jpg
+|   |           mainmenu_en_hover.jpg
+|   |           mainmenu_ground.jpg
+|   |           mainmenu_hover.jpg
+|   |           owl_hover.png
+|   |           owl_idle.png
+|   |           
+|   +---maps
+|   |       exit.jpg
+|   |       map.jpg
+|   |       map_available.jpg
+|   |       map_en.jpg
+|   |       map_en_available.jpg
+|   |       map_en_selected.jpg
+|   |       map_selected.jpg
+|   |       
+|   +---misc
+|   |   |   ach3.png
+|   |   |   achievement2.png
+|   |   |   avaframe.png
+|   |   |   ctc01.png
+|   |   |   ctc02.png
+|   |   |   ctc03.png
+|   |   |   ctc04.png
+|   |   |   ctc05.png
+|   |   |   ctc06.png
+|   |   |   ctc07.png
+|   |   |   ctc08.png
+|   |   |   disclaimer.jpg
+|   |   |   disclaimer_en.jpg
+|   |   |   down.png
+|   |   |   english_ground.png
+|   |   |   english_hover.png
+|   |   |   icon.png
+|   |   |   icon16.png
+|   |   |   icon_large.png
+|   |   |   logo_day.png
+|   |   |   logo_night.png
+|   |   |   logo_sunset.png
+|   |   |   none.png
+|   |   |   russian_ground.png
+|   |   |   russian_hover.png
+|   |   |   sepia.png
+|   |   |   soviet_games.jpg
+|   |   |   splashscreen_day.png
+|   |   |   splashscreen_night.png
+|   |   |   splashscreen_sunset.png
+|   |   |   up.png
+|   |   |   
+|   |   +---ach
+|   |   |       collector.png
+|   |   |       collector_en.png
+|   |   |       dv_bad.png
+|   |   |       dv_bad_en.png
+|   |   |       dv_good.png
+|   |   |       dv_good_en.png
+|   |   |       main_bad.png
+|   |   |       main_good.png
+|   |   |       main_good_en.png
+|   |   |       mi.png
+|   |   |       sl_bad.png
+|   |   |       sl_bad_en.png
+|   |   |       sl_good.png
+|   |   |       sl_good_en.png
+|   |   |       un_bad.png
+|   |   |       un_bad_en.png
+|   |   |       un_good.png
+|   |   |       un_good_en.png
+|   |   |       us_bad.png
+|   |   |       us_bad_en.png
+|   |   |       us_good.png
+|   |   |       us_good_en.png
+|   |   |       uv_city.png
+|   |   |       uv_good.png
+|   |   |       uv_good_en.png
+|   |   |       void.png
+|   |   |       
+|   |   +---mouse
+|   |   |       1.png
+|   |   |       2.png
+|   |   |       
+|   |   \---op
+|   |           back.jpg
+|   |           dv.png
+|   |           mi.png
+|   |           sl.png
+|   |           un.png
+|   |           us.png
+|   |           uv1.png
+|   |           uv2.png
+|   |           uv3.png
+|   |           
+|   \---sprites
+|       +---close
+|       |   +---cs
+|       |   |       cs_1_body.png
+|       |   |       cs_1_glasses.png
+|       |   |       cs_1_normal.png
+|       |   |       cs_1_shy.png
+|       |   |       cs_1_smile.png
+|       |   |       cs_1_stethoscope.png
+|       |   |       
+|       |   +---dv
+|       |   |       dv_1_body.png
+|       |   |       dv_1_coat.png
+|       |   |       dv_1_cry.png
+|       |   |       dv_1_pioneer.png
+|       |   |       dv_1_pioneer2.png
+|       |   |       dv_1_scared.png
+|       |   |       dv_1_shocked.png
+|       |   |       dv_1_surprise.png
+|       |   |       dv_1_swim.png
+|       |   |       dv_2_body.png
+|       |   |       dv_2_grin.png
+|       |   |       dv_2_pioneer.png
+|       |   |       dv_2_pioneer2.png
+|       |   |       dv_2_swim.png
+|       |   |       dv_3_body.png
+|       |   |       dv_3_guilty.png
+|       |   |       dv_3_pioneer.png
+|       |   |       dv_3_pioneer2.png
+|       |   |       dv_3_sad.png
+|       |   |       dv_3_shy.png
+|       |   |       dv_4_body.png
+|       |   |       dv_4_coat.png
+|       |   |       dv_4_laugh.png
+|       |   |       dv_4_normal.png
+|       |   |       dv_4_pioneer.png
+|       |   |       dv_4_pioneer2.png
+|       |   |       dv_4_smile.png
+|       |   |       dv_4_swim.png
+|       |   |       dv_5_angry.png
+|       |   |       dv_5_body.png
+|       |   |       dv_5_pioneer.png
+|       |   |       dv_5_pioneer2.png
+|       |   |       dv_5_rage.png
+|       |   |       
+|       |   +---el
+|       |   |       el_1_body.png
+|       |   |       el_1_grin.png
+|       |   |       el_1_normal.png
+|       |   |       el_1_pioneer.png
+|       |   |       el_1_smile.png
+|       |   |       el_2_body.png
+|       |   |       el_2_fingal.png
+|       |   |       el_2_pioneer.png
+|       |   |       el_2_sad.png
+|       |   |       el_2_scared.png
+|       |   |       el_2_shocked.png
+|       |   |       el_2_surprise.png
+|       |   |       el_2_upset.png
+|       |   |       el_3_angry.png
+|       |   |       el_3_body.png
+|       |   |       el_3_laugh.png
+|       |   |       el_3_pioneer.png
+|       |   |       el_3_serious.png
+|       |   |       
+|       |   +---mi
+|       |   |       mi_1_body.png
+|       |   |       mi_1_cry.png
+|       |   |       mi_1_dontlike.png
+|       |   |       mi_1_laugh.png
+|       |   |       mi_1_pioneer.png
+|       |   |       mi_1_scared.png
+|       |   |       mi_1_shocked.png
+|       |   |       mi_1_shy.png
+|       |   |       mi_1_surprise.png
+|       |   |       mi_1_swim.png
+|       |   |       mi_2_body.png
+|       |   |       mi_2_cry_smile.png
+|       |   |       mi_2_grin.png
+|       |   |       mi_2_happy.png
+|       |   |       mi_2_pioneer.png
+|       |   |       mi_2_sad.png
+|       |   |       mi_2_smile.png
+|       |   |       mi_2_swim.png
+|       |   |       mi_3_angry.png
+|       |   |       mi_3_body.png
+|       |   |       mi_3_normal.png
+|       |   |       mi_3_pioneer.png
+|       |   |       mi_3_rage.png
+|       |   |       mi_3_serious.png
+|       |   |       mi_3_swim.png
+|       |   |       mi_3_upset.png
+|       |   |       
+|       |   +---mt
+|       |   |       mt_1_body.png
+|       |   |       mt_1_dress.png
+|       |   |       mt_1_normal.png
+|       |   |       mt_1_panama.png
+|       |   |       mt_1_pioneer.png
+|       |   |       mt_1_sad.png
+|       |   |       mt_1_smile.png
+|       |   |       mt_1_surprise.png
+|       |   |       mt_1_swim.png
+|       |   |       mt_2_angry.png
+|       |   |       mt_2_body.png
+|       |   |       mt_2_dress.png
+|       |   |       mt_2_panama.png
+|       |   |       mt_2_pioneer.png
+|       |   |       mt_2_rage.png
+|       |   |       mt_2_shocked.png
+|       |   |       mt_2_swim.png
+|       |   |       mt_3_body.png
+|       |   |       mt_3_grin.png
+|       |   |       mt_3_laugh.png
+|       |   |       mt_3_panama.png
+|       |   |       mt_3_pioneer.png
+|       |   |       mt_3_scared.png
+|       |   |       
+|       |   +---mz
+|       |   |       mz_1_body.png
+|       |   |       mz_1_bukal.png
+|       |   |       mz_1_glasses.png
+|       |   |       mz_1_laugh.png
+|       |   |       mz_1_normal.png
+|       |   |       mz_1_pioneer.png
+|       |   |       mz_2_angry.png
+|       |   |       mz_2_body.png
+|       |   |       mz_2_glasses.png
+|       |   |       mz_2_pioneer.png
+|       |   |       mz_2_rage.png
+|       |   |       mz_3_body.png
+|       |   |       mz_3_glasses.png
+|       |   |       mz_3_pioneer.png
+|       |   |       mz_3_shy.png
+|       |   |       mz_3_smile.png
+|       |   |       
+|       |   +---pi
+|       |   |       pi_1_pioneer.png
+|       |   |       pi_1_pioneer_smile.png
+|       |   |       
+|       |   +---sh
+|       |   |       sh_1_body.png
+|       |   |       sh_1_laugh.png
+|       |   |       sh_1_scared.png
+|       |   |       sh_1_smile.png
+|       |   |       sh_1_upset.png
+|       |   |       sh_2_body.png
+|       |   |       sh_2_cry.png
+|       |   |       sh_2_normal_smile.png
+|       |   |       sh_2_rage.png
+|       |   |       sh_3_body.png
+|       |   |       sh_3_normal.png
+|       |   |       sh_3_serious.png
+|       |   |       sh_3_surprise.png
+|       |   |       
+|       |   +---sl
+|       |   |       sl_1_body.png
+|       |   |       sl_1_dress.png
+|       |   |       sl_1_normal.png
+|       |   |       sl_1_pioneer.png
+|       |   |       sl_1_serious.png
+|       |   |       sl_1_smile.png
+|       |   |       sl_1_sport.png
+|       |   |       sl_1_swim.png
+|       |   |       sl_2_body.png
+|       |   |       sl_2_dress.png
+|       |   |       sl_2_happy.png
+|       |   |       sl_2_laugh.png
+|       |   |       sl_2_pioneer.png
+|       |   |       sl_2_shy.png
+|       |   |       sl_2_smile2.png
+|       |   |       sl_2_sport.png
+|       |   |       sl_2_swim.png
+|       |   |       sl_3_angry.png
+|       |   |       sl_3_body.png
+|       |   |       sl_3_dress.png
+|       |   |       sl_3_pioneer.png
+|       |   |       sl_3_sad.png
+|       |   |       sl_3_sport.png
+|       |   |       sl_3_surprise.png
+|       |   |       sl_3_swim.png
+|       |   |       sl_4_body.png
+|       |   |       sl_4_dress.png
+|       |   |       sl_4_pioneer.png
+|       |   |       sl_4_scared.png
+|       |   |       sl_4_sport.png
+|       |   |       sl_4_swim.png
+|       |   |       sl_4_tender.png
+|       |   |       
+|       |   +---un
+|       |   |       un_1_angry.png
+|       |   |       un_1_body.png
+|       |   |       un_1_dress.png
+|       |   |       un_1_evil_smile.png
+|       |   |       un_1_normal.png
+|       |   |       un_1_pioneer.png
+|       |   |       un_1_shy.png
+|       |   |       un_1_smile.png
+|       |   |       un_1_smile2.png
+|       |   |       un_1_sport.png
+|       |   |       un_1_swim.png
+|       |   |       un_2_body.png
+|       |   |       un_2_cry.png
+|       |   |       un_2_cry_smile.png
+|       |   |       un_2_dress.png
+|       |   |       un_2_pioneer.png
+|       |   |       un_2_sad.png
+|       |   |       un_2_scared.png
+|       |   |       un_2_shocked.png
+|       |   |       un_2_sport.png
+|       |   |       un_2_surprise.png
+|       |   |       un_2_swim.png
+|       |   |       un_3_angry2.png
+|       |   |       un_3_body.png
+|       |   |       un_3_dress.png
+|       |   |       un_3_grin.png
+|       |   |       un_3_laugh.png
+|       |   |       un_3_pioneer.png
+|       |   |       un_3_rage.png
+|       |   |       un_3_serious.png
+|       |   |       un_3_smile3.png
+|       |   |       un_3_sport.png
+|       |   |       
+|       |   +---us
+|       |   |       us_1_body.png
+|       |   |       us_1_dress.png
+|       |   |       us_1_grin.png
+|       |   |       us_1_laugh.png
+|       |   |       us_1_laugh2.png
+|       |   |       us_1_normal.png
+|       |   |       us_1_pioneer.png
+|       |   |       us_1_sad.png
+|       |   |       us_1_smile.png
+|       |   |       us_1_sport.png
+|       |   |       us_1_swim.png
+|       |   |       us_2_angry.png
+|       |   |       us_2_body.png
+|       |   |       us_2_calml.png
+|       |   |       us_2_dontlike.png
+|       |   |       us_2_dress.png
+|       |   |       us_2_fear.png
+|       |   |       us_2_pioneer.png
+|       |   |       us_2_sport.png
+|       |   |       us_2_swim.png
+|       |   |       us_2_upset.png
+|       |   |       us_3_body.png
+|       |   |       us_3_cry.png
+|       |   |       us_3_cry2.png
+|       |   |       us_3_dress.png
+|       |   |       us_3_pioneer.png
+|       |   |       us_3_shy.png
+|       |   |       us_3_shy2.png
+|       |   |       us_3_sport.png
+|       |   |       us_3_surp1.png
+|       |   |       us_3_surp2.png
+|       |   |       us_3_surp3.png
+|       |   |       us_3_swim.png
+|       |   |       
+|       |   \---uv
+|       |           uv_1_body.png
+|       |           uv_1_dontlike.png
+|       |           uv_1_pioneer.png
+|       |           uv_1_rage.png
+|       |           uv_1_sad.png
+|       |           uv_1_shocked.png
+|       |           uv_2_body.png
+|       |           uv_2_normal.png
+|       |           uv_2_pioneer.png
+|       |           uv_2_smile.png
+|       |           uv_3_body.png
+|       |           uv_3_grin.png
+|       |           uv_3_laugh.png
+|       |           uv_3_pioneer.png
+|       |           uv_3_surprise2.png
+|       |           uv_4_body.png
+|       |           uv_4_guilty.png
+|       |           uv_4_pioneer.png
+|       |           uv_4_surprise.png
+|       |           uv_4_upset.png
+|       |           
+|       +---far
+|       |   +---cs
+|       |   |       cs_1_body.png
+|       |   |       cs_1_glasses.png
+|       |   |       cs_1_normal.png
+|       |   |       cs_1_shy.png
+|       |   |       cs_1_smile.png
+|       |   |       cs_1_stethoscope.png
+|       |   |       
+|       |   +---dv
+|       |   |       dv_1_body.png
+|       |   |       dv_1_cry.png
+|       |   |       dv_1_pioneer.png
+|       |   |       dv_1_pioneer2.png
+|       |   |       dv_1_scared.png
+|       |   |       dv_1_shocked.png
+|       |   |       dv_1_surprise.png
+|       |   |       dv_1_swim.png
+|       |   |       dv_2_body.png
+|       |   |       dv_2_grin.png
+|       |   |       dv_2_pioneer.png
+|       |   |       dv_2_pioneer2.png
+|       |   |       dv_2_swim.png
+|       |   |       dv_3_body.png
+|       |   |       dv_3_guilty.png
+|       |   |       dv_3_pioneer.png
+|       |   |       dv_3_pioneer2.png
+|       |   |       dv_3_sad.png
+|       |   |       dv_3_shy.png
+|       |   |       dv_4_body.png
+|       |   |       dv_4_laugh.png
+|       |   |       dv_4_normal.png
+|       |   |       dv_4_pioneer.png
+|       |   |       dv_4_pioneer2.png
+|       |   |       dv_4_smile.png
+|       |   |       dv_4_swim.png
+|       |   |       dv_5_angry.png
+|       |   |       dv_5_body.png
+|       |   |       dv_5_pioneer.png
+|       |   |       dv_5_pioneer2.png
+|       |   |       dv_5_rage.png
+|       |   |       
+|       |   +---el
+|       |   |       el_1_body.png
+|       |   |       el_1_grin.png
+|       |   |       el_1_normal.png
+|       |   |       el_1_pioneer.png
+|       |   |       el_1_smile.png
+|       |   |       el_2_body.png
+|       |   |       el_2_fingal.png
+|       |   |       el_2_pioneer.png
+|       |   |       el_2_sad.png
+|       |   |       el_2_scared.png
+|       |   |       el_2_shocked.png
+|       |   |       el_2_surprise.png
+|       |   |       el_2_upset.png
+|       |   |       el_3_angry.png
+|       |   |       el_3_body.png
+|       |   |       el_3_laugh.png
+|       |   |       el_3_pioneer.png
+|       |   |       el_3_serious.png
+|       |   |       
+|       |   +---mi
+|       |   |       mi_1_body.png
+|       |   |       mi_1_cry.png
+|       |   |       mi_1_dontlike.png
+|       |   |       mi_1_laugh.png
+|       |   |       mi_1_pioneer.png
+|       |   |       mi_1_scared.png
+|       |   |       mi_1_shocked.png
+|       |   |       mi_1_shy.png
+|       |   |       mi_1_surprise.png
+|       |   |       mi_1_swim.png
+|       |   |       mi_2_body.png
+|       |   |       mi_2_cry_smile.png
+|       |   |       mi_2_grin.png
+|       |   |       mi_2_happy.png
+|       |   |       mi_2_pioneer.png
+|       |   |       mi_2_sad.png
+|       |   |       mi_2_smile.png
+|       |   |       mi_2_swim.png
+|       |   |       mi_3_angry.png
+|       |   |       mi_3_body.png
+|       |   |       mi_3_normal.png
+|       |   |       mi_3_pioneer.png
+|       |   |       mi_3_rage.png
+|       |   |       mi_3_serious.png
+|       |   |       mi_3_swim.png
+|       |   |       mi_3_upset.png
+|       |   |       
+|       |   +---mt
+|       |   |       mt_1_body.png
+|       |   |       mt_1_dress.png
+|       |   |       mt_1_normal.png
+|       |   |       mt_1_panama.png
+|       |   |       mt_1_pioneer.png
+|       |   |       mt_1_sad.png
+|       |   |       mt_1_smile.png
+|       |   |       mt_1_surprise.png
+|       |   |       mt_1_swim.png
+|       |   |       mt_2_angry.png
+|       |   |       mt_2_body.png
+|       |   |       mt_2_dress.png
+|       |   |       mt_2_panama.png
+|       |   |       mt_2_pioneer.png
+|       |   |       mt_2_rage.png
+|       |   |       mt_2_shocked.png
+|       |   |       mt_2_swim.png
+|       |   |       mt_3_body.png
+|       |   |       mt_3_grin.png
+|       |   |       mt_3_laugh.png
+|       |   |       mt_3_panama.png
+|       |   |       mt_3_pioneer.png
+|       |   |       mt_3_scared.png
+|       |   |       
+|       |   +---mz
+|       |   |       mz_1_body.png
+|       |   |       mz_1_bukal.png
+|       |   |       mz_1_glasses.png
+|       |   |       mz_1_laugh.png
+|       |   |       mz_1_normal.png
+|       |   |       mz_1_pioneer.png
+|       |   |       mz_2_angry.png
+|       |   |       mz_2_body.png
+|       |   |       mz_2_glasses.png
+|       |   |       mz_2_pioneer.png
+|       |   |       mz_2_rage.png
+|       |   |       mz_3_body.png
+|       |   |       mz_3_glasses.png
+|       |   |       mz_3_pioneer.png
+|       |   |       mz_3_shy.png
+|       |   |       mz_3_smile.png
+|       |   |       
+|       |   +---pi
+|       |   |       pi_1_pioneer.png
+|       |   |       pi_1_pioneer_smile.png
+|       |   |       
+|       |   +---sh
+|       |   |       sh_1_body.png
+|       |   |       sh_1_laugh.png
+|       |   |       sh_1_scared.png
+|       |   |       sh_1_smile.png
+|       |   |       sh_1_upset.png
+|       |   |       sh_2_body.png
+|       |   |       sh_2_cry.png
+|       |   |       sh_2_normal_smile.png
+|       |   |       sh_2_rage.png
+|       |   |       sh_3_body.png
+|       |   |       sh_3_normal.png
+|       |   |       sh_3_serious.png
+|       |   |       sh_3_surprise.png
+|       |   |       
+|       |   +---sl
+|       |   |       sl_1_body.png
+|       |   |       sl_1_dress.png
+|       |   |       sl_1_normal.png
+|       |   |       sl_1_pioneer.png
+|       |   |       sl_1_serious.png
+|       |   |       sl_1_smile.png
+|       |   |       sl_1_sport.png
+|       |   |       sl_1_swim.png
+|       |   |       sl_2_body.png
+|       |   |       sl_2_dress.png
+|       |   |       sl_2_happy.png
+|       |   |       sl_2_laugh.png
+|       |   |       sl_2_pioneer.png
+|       |   |       sl_2_shy.png
+|       |   |       sl_2_smile2.png
+|       |   |       sl_2_sport.png
+|       |   |       sl_2_swim.png
+|       |   |       sl_3_angry.png
+|       |   |       sl_3_body.png
+|       |   |       sl_3_dress.png
+|       |   |       sl_3_pioneer.png
+|       |   |       sl_3_sad.png
+|       |   |       sl_3_sport.png
+|       |   |       sl_3_surprise.png
+|       |   |       sl_3_swim.png
+|       |   |       sl_4_body.png
+|       |   |       sl_4_dress.png
+|       |   |       sl_4_pioneer.png
+|       |   |       sl_4_scared.png
+|       |   |       sl_4_sport.png
+|       |   |       sl_4_swim.png
+|       |   |       sl_4_tender.png
+|       |   |       
+|       |   +---un
+|       |   |       un_1_angry.png
+|       |   |       un_1_body.png
+|       |   |       un_1_dress.png
+|       |   |       un_1_evil_smile.png
+|       |   |       un_1_normal.png
+|       |   |       un_1_pioneer.png
+|       |   |       un_1_shy.png
+|       |   |       un_1_smile.png
+|       |   |       un_1_smile2.png
+|       |   |       un_1_sport.png
+|       |   |       un_1_swim.png
+|       |   |       un_2_body.png
+|       |   |       un_2_cry.png
+|       |   |       un_2_cry_smile.png
+|       |   |       un_2_dress.png
+|       |   |       un_2_pioneer.png
+|       |   |       un_2_sad.png
+|       |   |       un_2_scared.png
+|       |   |       un_2_shocked.png
+|       |   |       un_2_sport.png
+|       |   |       un_2_surprise.png
+|       |   |       un_2_swim.png
+|       |   |       un_3_angry2.png
+|       |   |       un_3_body.png
+|       |   |       un_3_dress.png
+|       |   |       un_3_grin.png
+|       |   |       un_3_laugh.png
+|       |   |       un_3_pioneer.png
+|       |   |       un_3_rage.png
+|       |   |       un_3_serious.png
+|       |   |       un_3_smile3.png
+|       |   |       un_3_sport.png
+|       |   |       
+|       |   +---us
+|       |   |       us_1_body.png
+|       |   |       us_1_dress.png
+|       |   |       us_1_grin.png
+|       |   |       us_1_laugh.png
+|       |   |       us_1_laugh2.png
+|       |   |       us_1_normal.png
+|       |   |       us_1_pioneer.png
+|       |   |       us_1_sad.png
+|       |   |       us_1_smile.png
+|       |   |       us_1_sport.png
+|       |   |       us_1_swim.png
+|       |   |       us_2_angry.png
+|       |   |       us_2_body.png
+|       |   |       us_2_calml.png
+|       |   |       us_2_dontlike.png
+|       |   |       us_2_dress.png
+|       |   |       us_2_fear.png
+|       |   |       us_2_pioneer.png
+|       |   |       us_2_sport.png
+|       |   |       us_2_swim.png
+|       |   |       us_2_upset.png
+|       |   |       us_3_body.png
+|       |   |       us_3_cry.png
+|       |   |       us_3_cry2.png
+|       |   |       us_3_dress.png
+|       |   |       us_3_pioneer.png
+|       |   |       us_3_shy.png
+|       |   |       us_3_shy2.png
+|       |   |       us_3_sport.png
+|       |   |       us_3_surp1.png
+|       |   |       us_3_surp2.png
+|       |   |       us_3_surp3.png
+|       |   |       us_3_swim.png
+|       |   |       
+|       |   \---uv
+|       |           uv_1_body.png
+|       |           uv_1_dontlike.png
+|       |           uv_1_pioneer.png
+|       |           uv_1_rage.png
+|       |           uv_1_sad.png
+|       |           uv_1_shocked.png
+|       |           uv_2_body.png
+|       |           uv_2_normal.png
+|       |           uv_2_pioneer.png
+|       |           uv_2_smile.png
+|       |           uv_3_body.png
+|       |           uv_3_grin.png
+|       |           uv_3_laugh.png
+|       |           uv_3_pioneer.png
+|       |           uv_3_surprise2.png
+|       |           uv_4_body.png
+|       |           uv_4_guilty.png
+|       |           uv_4_pioneer.png
+|       |           uv_4_surprise.png
+|       |           uv_4_upset.png
+|       |           
+|       \---normal
+|           +---cs
+|           |       cs_1_body.png
+|           |       cs_1_glasses.png
+|           |       cs_1_normal.png
+|           |       cs_1_shy.png
+|           |       cs_1_smile.png
+|           |       cs_1_stethoscope.png
+|           |       
+|           +---dv
+|           |       dv_1_body.png
+|           |       dv_1_coat.png
+|           |       dv_1_cry.png
+|           |       dv_1_pioneer.png
+|           |       dv_1_pioneer2.png
+|           |       dv_1_scared.png
+|           |       dv_1_shocked.png
+|           |       dv_1_surprise.png
+|           |       dv_1_swim.png
+|           |       dv_2_body.png
+|           |       dv_2_grin.png
+|           |       dv_2_pioneer.png
+|           |       dv_2_pioneer2.png
+|           |       dv_2_swim.png
+|           |       dv_3_body.png
+|           |       dv_3_coat.png
+|           |       dv_3_guilty.png
+|           |       dv_3_pioneer.png
+|           |       dv_3_pioneer2.png
+|           |       dv_3_sad.png
+|           |       dv_3_shy.png
+|           |       dv_4_body.png
+|           |       dv_4_coat.png
+|           |       dv_4_laugh.png
+|           |       dv_4_normal.png
+|           |       dv_4_pioneer.png
+|           |       dv_4_pioneer2.png
+|           |       dv_4_smile.png
+|           |       dv_4_swim.png
+|           |       dv_5_angry.png
+|           |       dv_5_body.png
+|           |       dv_5_coat.png
+|           |       dv_5_pioneer.png
+|           |       dv_5_pioneer2.png
+|           |       dv_5_rage.png
+|           |       
+|           +---el
+|           |       el_1_body.png
+|           |       el_1_grin.png
+|           |       el_1_normal.png
+|           |       el_1_pioneer.png
+|           |       el_1_smile.png
+|           |       el_2_body.png
+|           |       el_2_fingal.png
+|           |       el_2_pioneer.png
+|           |       el_2_sad.png
+|           |       el_2_scared.png
+|           |       el_2_shocked.png
+|           |       el_2_surprise.png
+|           |       el_2_upset.png
+|           |       el_3_angry.png
+|           |       el_3_body.png
+|           |       el_3_laugh.png
+|           |       el_3_pioneer.png
+|           |       el_3_serious.png
+|           |       
+|           +---mi
+|           |       mi_1_body.png
+|           |       mi_1_cry.png
+|           |       mi_1_dontlike.png
+|           |       mi_1_laugh.png
+|           |       mi_1_pioneer.png
+|           |       mi_1_scared.png
+|           |       mi_1_shocked.png
+|           |       mi_1_shy.png
+|           |       mi_1_surprise.png
+|           |       mi_1_swim.png
+|           |       mi_2_body.png
+|           |       mi_2_cry_smile.png
+|           |       mi_2_grin.png
+|           |       mi_2_happy.png
+|           |       mi_2_pioneer.png
+|           |       mi_2_sad.png
+|           |       mi_2_smile.png
+|           |       mi_2_swim.png
+|           |       mi_3_angry.png
+|           |       mi_3_body.png
+|           |       mi_3_normal.png
+|           |       mi_3_pioneer.png
+|           |       mi_3_rage.png
+|           |       mi_3_serious.png
+|           |       mi_3_swim.png
+|           |       mi_3_upset.png
+|           |       
+|           +---mt
+|           |       mt_1_body.png
+|           |       mt_1_dress.png
+|           |       mt_1_normal.png
+|           |       mt_1_panama.png
+|           |       mt_1_pioneer.png
+|           |       mt_1_sad.png
+|           |       mt_1_smile.png
+|           |       mt_1_surprise.png
+|           |       mt_1_swim.png
+|           |       mt_2_angry.png
+|           |       mt_2_body.png
+|           |       mt_2_dress.png
+|           |       mt_2_panama.png
+|           |       mt_2_pioneer.png
+|           |       mt_2_rage.png
+|           |       mt_2_shocked.png
+|           |       mt_2_swim.png
+|           |       mt_3_body.png
+|           |       mt_3_grin.png
+|           |       mt_3_laugh.png
+|           |       mt_3_panama.png
+|           |       mt_3_pioneer.png
+|           |       mt_3_scared.png
+|           |       
+|           +---mz
+|           |       mz_1_body.png
+|           |       mz_1_bukal.png
+|           |       mz_1_glasses.png
+|           |       mz_1_laugh.png
+|           |       mz_1_normal.png
+|           |       mz_1_pioneer.png
+|           |       mz_2_angry.png
+|           |       mz_2_body.png
+|           |       mz_2_glasses.png
+|           |       mz_2_pioneer.png
+|           |       mz_2_rage.png
+|           |       mz_3_body.png
+|           |       mz_3_glasses.png
+|           |       mz_3_pioneer.png
+|           |       mz_3_shy.png
+|           |       mz_3_smile.png
+|           |       
+|           +---pi
+|           |       pi_1_pioneer.png
+|           |       pi_1_pioneer_smile.png
+|           |       
+|           +---sh
+|           |       sh_1_body.png
+|           |       sh_1_laugh.png
+|           |       sh_1_scared.png
+|           |       sh_1_smile.png
+|           |       sh_1_upset.png
+|           |       sh_2_body.png
+|           |       sh_2_cry.png
+|           |       sh_2_normal_smile.png
+|           |       sh_2_rage.png
+|           |       sh_3_body.png
+|           |       sh_3_normal.png
+|           |       sh_3_serious.png
+|           |       sh_3_surprise.png
+|           |       
+|           +---sl
+|           |       sl_1_body.png
+|           |       sl_1_dress.png
+|           |       sl_1_normal.png
+|           |       sl_1_pioneer.png
+|           |       sl_1_serious.png
+|           |       sl_1_smile.png
+|           |       sl_1_sport.png
+|           |       sl_1_swim.png
+|           |       sl_2_body.png
+|           |       sl_2_dress.png
+|           |       sl_2_happy.png
+|           |       sl_2_laugh.png
+|           |       sl_2_pioneer.png
+|           |       sl_2_shy.png
+|           |       sl_2_smile2.png
+|           |       sl_2_sport.png
+|           |       sl_2_swim.png
+|           |       sl_3_angry.png
+|           |       sl_3_body.png
+|           |       sl_3_dress.png
+|           |       sl_3_pioneer.png
+|           |       sl_3_sad.png
+|           |       sl_3_sport.png
+|           |       sl_3_surprise.png
+|           |       sl_3_swim.png
+|           |       sl_4_body.png
+|           |       sl_4_dress.png
+|           |       sl_4_pioneer.png
+|           |       sl_4_scared.png
+|           |       sl_4_sport.png
+|           |       sl_4_swim.png
+|           |       sl_4_tender.png
+|           |       
+|           +---un
+|           |       un_1_angry.png
+|           |       un_1_body.png
+|           |       un_1_dress.png
+|           |       un_1_evil_smile.png
+|           |       un_1_normal.png
+|           |       un_1_pioneer.png
+|           |       un_1_shy.png
+|           |       un_1_smile.png
+|           |       un_1_smile2.png
+|           |       un_1_sport.png
+|           |       un_1_swim.png
+|           |       un_2_body.png
+|           |       un_2_cry.png
+|           |       un_2_cry_smile.png
+|           |       un_2_dress.png
+|           |       un_2_pioneer.png
+|           |       un_2_sad.png
+|           |       un_2_scared.png
+|           |       un_2_shocked.png
+|           |       un_2_sport.png
+|           |       un_2_surprise.png
+|           |       un_2_swim.png
+|           |       un_3_angry2.png
+|           |       un_3_body.png
+|           |       un_3_dress.png
+|           |       un_3_grin.png
+|           |       un_3_laugh.png
+|           |       un_3_pioneer.png
+|           |       un_3_rage.png
+|           |       un_3_serious.png
+|           |       un_3_smile3.png
+|           |       un_3_sport.png
+|           |       
+|           +---us
+|           |       us_1_body.png
+|           |       us_1_dress.png
+|           |       us_1_grin.png
+|           |       us_1_laugh.png
+|           |       us_1_laugh2.png
+|           |       us_1_normal.png
+|           |       us_1_pioneer.png
+|           |       us_1_sad.png
+|           |       us_1_smile.png
+|           |       us_1_sport.png
+|           |       us_1_swim.png
+|           |       us_2_angry.png
+|           |       us_2_body.png
+|           |       us_2_calml.png
+|           |       us_2_dontlike.png
+|           |       us_2_dress.png
+|           |       us_2_fear.png
+|           |       us_2_pioneer.png
+|           |       us_2_sport.png
+|           |       us_2_swim.png
+|           |       us_2_upset.png
+|           |       us_3_body.png
+|           |       us_3_cry.png
+|           |       us_3_cry2.png
+|           |       us_3_dress.png
+|           |       us_3_pioneer.png
+|           |       us_3_shy.png
+|           |       us_3_shy2.png
+|           |       us_3_sport.png
+|           |       us_3_surp1.png
+|           |       us_3_surp2.png
+|           |       us_3_surp3.png
+|           |       us_3_swim.png
+|           |       
+|           \---uv
+|                   uv_1_body.png
+|                   uv_1_dontlike.png
+|                   uv_1_pioneer.png
+|                   uv_1_rage.png
+|                   uv_1_sad.png
+|                   uv_1_shocked.png
+|                   uv_2_body.png
+|                   uv_2_normal.png
+|                   uv_2_pioneer.png
+|                   uv_2_smile.png
+|                   uv_3_body.png
+|                   uv_3_grin.png
+|                   uv_3_laugh.png
+|                   uv_3_pioneer.png
+|                   uv_3_surprise2.png
+|                   uv_4_body.png
+|                   uv_4_guilty.png
+|                   uv_4_pioneer.png
+|                   uv_4_surprise.png
+|                   uv_4_upset.png
+|                   
++---mods
+|   \---alisa
+|           dv_1_coat.png
+|           dv_1_coat_close.png
+|           dv_3_coat.png
+|           dv_4_coat.png
+|           dv_4_coat_close.png
+|           dv_5_coat.png
+|           epilogue_dv_good.jpg
+|           
+\---sound
+    |   code_breaker_1.ogg
+    |   code_breaker_2.ogg
+    |   test.ogg
+    |   
+    +---ambiences
+    |   |   boat_station_day.ogg
+    |   |   boat_station_night.ogg
+    |   |   camp_center_day.ogg
+    |   |   camp_center_evening.ogg
+    |   |   camp_center_night.ogg
+    |   |   camp_entrance_day.ogg
+    |   |   camp_entrance_day_people.ogg
+    |   |   camp_entrance_night.ogg
+    |   |   catacombs.ogg
+    |   |   catacombs_stones.ogg
+    |   |   clubs_inside_day.ogg
+    |   |   cold_wind_loop.ogg
+    |   |   day_countryside_ambience.ogg
+    |   |   dining_hall_empty.ogg
+    |   |   dining_hall_full.ogg
+    |   |   ext_road_day.ogg
+    |   |   ext_road_evening.ogg
+    |   |   ext_road_night.ogg
+    |   |   forest_day.ogg
+    |   |   forest_evening.ogg
+    |   |   forest_night.ogg
+    |   |   grasshoper_clean.ogg
+    |   |   int_cabin_day.ogg
+    |   |   int_cabin_evening.ogg
+    |   |   int_cabin_night.ogg
+    |   |   lake_shore_day.ogg
+    |   |   lake_shore_evening.ogg
+    |   |   lake_shore_night.ogg
+    |   |   library_day.ogg
+    |   |   medium_crowd_indoors_1.ogg
+    |   |   medium_crowd_outdoors.ogg
+    |   |   medstation_inside_day.ogg
+    |   |   medstation_inside_night.ogg
+    |   |   music_club_day.ogg
+    |   |   music_club_night.ogg
+    |   |   old_camp_outside.ogg
+    |   |   soccer_play_background.ogg
+    |   |   
+    |   \---old
+    |           beach.ogg
+    |           dining_room_empty.ogg
+    |           dining_room_people.ogg
+    |           forestbirds.ogg
+    |           oyez_crickets.ogg
+    |           water_stream_closer.ogg
+    |           
+    +---music
+    |       410.ogg
+    |       afterword.ogg
+    |       always_ready.ogg
+    |       awakening_power.ogg
+    |       a_promise_from_distant_days.ogg
+    |       a_promise_from_distant_days_v2.ogg
+    |       blow_with_the_fires.ogg
+    |       confession.ogg
+    |       dance_of_fireflies.ogg
+    |       dinner_horn_processed.ogg
+    |       doomed_to_be_defeated.ogg
+    |       door_to_nightmare.ogg
+    |       drown.ogg
+    |       eat_some_trouble.ogg
+    |       eternal_longing.ogg
+    |       everlasting_summer.ogg
+    |       everlasting_summer_op_edition.ogg
+    |       faceless.ogg
+    |       farewell_to_the_past.ogg
+    |       farewell_to_the_past_short.ogg
+    |       feeling_good.ogg
+    |       forest_maiden.ogg
+    |       gentle_predator.ogg
+    |       get_to_know_me_better.ogg
+    |       glimmering_coals.ogg
+    |       goodbye_home_shores.ogg
+    |       heather.ogg
+    |       into_the_unknown.ogg
+    |       i_dont_blame_you.ogg
+    |       i_want_to_play.ogg
+    |       just_think.ogg
+    |       kostry.ogg
+    |       lets_be_friends.ogg
+    |       lightness.ogg
+    |       lightness_radio.ogg
+    |       meet_me_there.ogg
+    |       memories.ogg
+    |       memories_piano_outdoors.ogg
+    |       miku_song_flute.ogg
+    |       miku_song_learn1.ogg
+    |       miku_song_voice.ogg
+    |       mystery_girl.ogg
+    |       my_daily_life.ogg
+    |       no_tresspassing.ogg
+    |       orchid.ogg
+    |       pile.ogg
+    |       raindrops.ogg
+    |       reflection_on_water.ogg
+    |       reminiscences.ogg
+    |       revenga.ogg
+    |       scarytale.ogg
+    |       she_is_kind.ogg
+    |       silhouette_in_sunset.ogg
+    |       smooth_machine.ogg
+    |       so_good_to_be_careless.ogg
+    |       sparkles.ogg
+    |       sunny_day.ogg
+    |       sweet_darkness.ogg
+    |       take_me_beautifully.ogg
+    |       that_s_our_madhouse.ogg
+    |       timid_girl.ogg
+    |       torture.ogg
+    |       trapped_in_dreams.ogg
+    |       tried_to_bring_it_back.ogg
+    |       two_glasses_of_melancholy.ogg
+    |       vzveites_kostrami.ogg
+    |       waltz_of_doubts.ogg
+    |       went_fishing_caught_a_girl.ogg
+    |       what_do_you_think_of_me.ogg
+    |       your_bright_side.ogg
+    |       you_lost_me.ogg
+    |       you_won_t_let_me_down.ogg
+    |       
+    \---sfx
+        |   achievement.ogg
+        |   alisa_falls.ogg
+        |   alisa_falls_novoice.ogg
+        |   alisa_lighter.ogg
+        |   alisa_masha_enter.ogg
+        |   alisa_picklock.ogg
+        |   angry_ulyana.ogg
+        |   armature_swish.ogg
+        |   bed_squeak1.ogg
+        |   bed_squeak2.ogg
+        |   blanket_off.ogg
+        |   blanket_off_stand.ogg
+        |   blow_out_candle.ogg
+        |   boat_impact.ogg
+        |   bodyfall_1.ogg
+        |   body_bump.ogg
+        |   bones_breaking.ogg
+        |   borshtch.ogg
+        |   brass_drop.ogg
+        |   break_cupboard.ogg
+        |   break_flashlight.ogg
+        |   break_flashlight_alisa.ogg
+        |   break_grid.ogg
+        |   break_monitor.ogg
+        |   broken_dish.ogg
+        |   broom_sweep.ogg
+        |   bush_body_fall.ogg
+        |   bush_leaves.ogg
+        |   bus_honk.ogg
+        |   bus_idle.ogg
+        |   bus_interior_moving.ogg
+        |   bus_loop.ogg
+        |   bus_out.ogg
+        |   bus_stop.ogg
+        |   bus_window_hit.ogg
+        |   campus_door_rattle.ogg
+        |   carousel_squeak.ogg
+        |   catgirl_hiss.ogg
+        |   cellar_open.ogg
+        |   cellular_phone_error.ogg
+        |   chair_fall.ogg
+        |   cigarette_pack_crumple.ogg
+        |   clench2.ogg
+        |   click_1.ogg
+        |   click_2.ogg
+        |   click_3.ogg
+        |   close_cabinet.ogg
+        |   close_door_1.ogg
+        |   close_door_campus_1.ogg
+        |   close_door_clubs_nextroom.ogg
+        |   close_water_sink.ogg
+        |   computer_noise.ogg
+        |   computer_screen_static.ogg
+        |   concert_applause.ogg
+        |   cooking_eggs_1.ogg
+        |   cooking_eggs_2.ogg
+        |   cooling_bus_motor.ogg
+        |   cooling_engine_loop.ogg
+        |   dinner_horn_processed.ogg
+        |   dinner_jingle_normal.ogg
+        |   dinner_jingle_speaker.ogg
+        |   dinner_jingle_speaker_tape.ogg
+        |   door_bell.ogg
+        |   door_squeak_light.ogg
+        |   drawer_rattle.ogg
+        |   draw_water.ogg
+        |   dropped_chair.ogg
+        |   drop_alisa_bag.ogg
+        |   drop_pipe.ogg
+        |   eat_apple.ogg
+        |   energy_door_bus.ogg
+        |   face_slap.ogg
+        |   fall_grass.ogg
+        |   fall_metal_door.ogg
+        |   fall_wood_floor.ogg
+        |   far_steps.ogg
+        |   forest_fireplace.ogg
+        |   ghost_children_laugh.ogg
+        |   grate_hand_fall.ogg
+        |   grate_open_hand.ogg
+        |   gusty_wind.ogg
+        |   hatch_drop.ogg
+        |   head_explode.ogg
+        |   head_heartbeat.ogg
+        |   hell_alarm_clock.ogg
+        |   hell_crickets_1.ogg
+        |   hell_crickets_2.ogg
+        |   hell_crickets_3.ogg
+        |   hell_crickets_4.ogg
+        |   hiding_in_bush.ogg
+        |   home_phone_break.ogg
+        |   home_phone_ring.ogg
+        |   home_phone_take.ogg
+        |   ignite_torch.ogg
+        |   ikarus_arrive.ogg
+        |   ikarus_open_doors.ogg
+        |   inhale.ogg
+        |   insert_crowbar_door.ogg
+        |   intro_bus_door_open.ogg
+        |   intro_bus_engine_loop.ogg
+        |   intro_bus_engine_start.ogg
+        |   intro_bus_stop_sigh.ogg
+        |   intro_bus_stop_steps.ogg
+        |   intro_bus_transition.ogg
+        |   jump_into_hole.ogg
+        |   jump_into_hole_2.ogg
+        |   jump_into_hole_3.ogg
+        |   jump_over_hole.ogg
+        |   keyboard_mouse.ogg
+        |   keyboard_mouse_computer_noise.ogg
+        |   keys_rattle.ogg
+        |   key_drawer.ogg
+        |   knocking_door_2.ogg
+        |   knocking_door_outside.ogg
+        |   knock_door2.ogg
+        |   knock_door3_dull.ogg
+        |   knock_door6_closed.ogg
+        |   knock_door7_polite.ogg
+        |   knock_door_closed_hard1.ogg
+        |   knock_door_closed_hard2.ogg
+        |   knock_glass.ogg
+        |   lena_hits_alisa.ogg
+        |   lena_plays_tennis_fail.ogg
+        |   light_candle.ogg
+        |   lock_click.ogg
+        |   lock_close.ogg
+        |   lock_open.ogg
+        |   lock_open_close_1.ogg
+        |   match_candle.ogg
+        |   medpunkt_door_open.ogg
+        |   menu_gate.ogg
+        |   metal_door_handle_rattle.ogg
+        |   metal_door_heavy_close.ogg
+        |   metal_door_large_close_basement.ogg
+        |   miku_song_learn1.ogg
+        |   miku_song_learn2.ogg
+        |   muffled_explosion.ogg
+        |   mystery_movement.ogg
+        |   nightmare_explosion.ogg
+        |   nightmare_underground_rumble.ogg
+        |   open_cabinet_1.ogg
+        |   open_cabinet_2.ogg
+        |   open_cupboard.ogg
+        |   open_dooor_campus_1.ogg
+        |   open_dooor_campus_2.ogg
+        |   open_door_1.ogg
+        |   open_door_2.ogg
+        |   open_door_clubs.ogg
+        |   open_door_clubs_2.ogg
+        |   open_door_clubs_nextroom.ogg
+        |   open_door_kick.ogg
+        |   open_door_mines.ogg
+        |   open_door_mines_metal.ogg
+        |   open_door_squeak_2.ogg
+        |   open_door_strong.ogg
+        |   open_drapes.ogg
+        |   open_journal.ogg
+        |   open_metal_door.ogg
+        |   open_metal_hatch.ogg
+        |   open_table.ogg
+        |   open_water_sink.ogg
+        |   open_window.ogg
+        |   owl_far.ogg
+        |   paper_bag.ogg
+        |   pat_shoulder_hard.ogg
+        |   piano_head_bump.ogg
+        |   punch_medium.ogg
+        |   punch_washstand.ogg
+        |   put_sugar_cart.ogg
+        |   radio_squelch_1.ogg
+        |   radio_squelch_2.ogg
+        |   radio_tune.ogg
+        |   rowboat_loop.ogg
+        |   run_forest.ogg
+        |   salt_impact.ogg
+        |   scary_sting.ogg
+        |   scoop_water_cup.ogg
+        |   shoulder_dive_water.ogg
+        |   shurik_mines_far.ogg
+        |   shurik_opens_door.ogg
+        |   shurik_snore.ogg
+        |   signal_pistol.ogg
+        |   simon_applause.ogg
+        |   simon_fall_1.ogg
+        |   simon_fall_2.ogg
+        |   slam_door_campus.ogg
+        |   slavya_gets_out.ogg
+        |   slavya_run.ogg
+        |   soccer_ball_catch.ogg
+        |   soccer_ball_gate.ogg
+        |   soccer_ball_kick.ogg
+        |   steps_clubs_nextroom.ogg
+        |   stomach_growl.ogg
+        |   street_traffic_outside.ogg
+        |   suspence_bang.ogg
+        |   swimming.ogg
+        |   table_hit.ogg
+        |   tennis_serve_1.ogg
+        |   tennis_serve_2.ogg
+        |   terminator.ogg
+        |   terminator_parody.ogg
+        |   throw_compote.ogg
+        |   thunder_crack.ogg
+        |   thunder_rumble.ogg
+        |   thunder_wood.ogg
+        |   torch.ogg
+        |   tree_branches.ogg
+        |   uliana_jumps_down.ogg
+        |   underwater_dive.ogg
+        |   unlock_door_campus.ogg
+        |   unlock_medpunkt_door.ogg
+        |   unzip_sleepbag.ogg
+        |   water_emerge.ogg
+        |   water_sink_stream.ogg
+        |   water_splash.ogg
+        |   wind_gust.ogg
+        |   wood_floor_squeak.ogg
+        |   wood_friction.ogg
+        |   
+        +---cardgame
+        |   |   choose_card_2.ogg
+        |   |   deal_card_10.ogg
+        |   |   deal_card_9.ogg
+        |   |   put_card_1.ogg
+        |   |   take_card_1.ogg
+        |   |   take_card_2.ogg
+        |   |   take_card_3.ogg
+        |   |   
+        |   \---new
+        |           choose_card_1.ogg
+        |           choose_card_2.ogg
+        |           deal_card_1.ogg
+        |           deal_card_2.ogg
+        |           deal_card_3.ogg
+        |           deal_card_4.ogg
+        |           take_card_1.ogg
+        |           take_card_2.ogg
+        |           take_card_3.ogg
+        |           
+        \---guitar
+                c#.ogg
+                c.ogg
+                d#.ogg
+                d.ogg
+                d3.ogg
+                e.ogg
+                e3.ogg
+                f#.ogg
+                f.ogg
+                f3.ogg
+                h.ogg
+                h2.ogg
+                
