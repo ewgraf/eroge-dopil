@@ -20,6 +20,9 @@ init 1:
     $ music_sunny_day               = "../../storage/sound/music/sunny_day.ogg"
     $ music_revenga                 = "../../storage/sound/music/revenga.ogg"
     $ music_everlasting_summer_op_edition = "../../storage/sound/music/everlasting_summer_op_edition.ogg"
+    $ music_memories_piano_outdoors = "../../storage/sound/music/memories_piano_outdoors.ogg"
+    $ music_no_tresspassing = "../../storage/sound/music/no_tresspassing.ogg"
+
 
     $ music_list = {}
     image bg ext_house_of_dv_night                  = "../../storage/images/bg/ext_house_of_dv_night.jpg"

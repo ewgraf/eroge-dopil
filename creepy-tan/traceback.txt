@@ -1,56 +1,21 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "game/script.rpy", line 23, in script
-    ">Собрание пионеров в библиотеке."
-  File "game/screens.rpy", line 154, in execute
-    screen say:
-  File "game/screens.rpy", line 154, in execute
-    screen say:
-  File "game/screens.rpy", line 155, in execute
-    window:
-  File "game/screens.rpy", line 159, in execute
-    imagebutton:
-Exception: Not a displayable: None
+  File "game/ii_eroge_prologue.rpy", line 71, in <module>
+    $ set_mode_nvl()
+NameError: name 'set_mode_nvl' is not defined
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "game/script.rpy", line 23, in script
-    ">Собрание пионеров в библиотеке."
-  File "C:\Users\Lenovo\renpy-6.99.10-sdk\renpy\ast.py", line 604, in execute
-    renpy.exports.say(who, what, interact=self.interact)
-  File "C:\Users\Lenovo\renpy-6.99.10-sdk\renpy\exports.py", line 1122, in say
-    who(what, interact=interact)
-  File "C:\Users\Lenovo\renpy-6.99.10-sdk\renpy\character.py", line 841, in __call__
-    self.do_display(who, what, cb_args=self.cb_args, **display_args)
-  File "C:\Users\Lenovo\renpy-6.99.10-sdk\renpy\character.py", line 690, in do_display
-    **display_args)
-  File "C:\Users\Lenovo\renpy-6.99.10-sdk\renpy\character.py", line 467, in display_say
-    what_text = show_function(who, what_string)
-  File "C:\Users\Lenovo\renpy-6.99.10-sdk\renpy\character.py", line 674, in do_show
-    **self.show_args)
-  File "C:\Users\Lenovo\renpy-6.99.10-sdk\renpy\character.py", line 275, in show_display_say
-    return renpy.display.screen.get_widget(screen, "what", layer)
-  File "C:\Users\Lenovo\renpy-6.99.10-sdk\renpy\display\screen.py", line 1137, in get_widget
-    screen.update()
-  File "C:\Users\Lenovo\renpy-6.99.10-sdk\renpy\display\screen.py", line 565, in update
-    self.screen.function(**self.scope)
-  File "game/screens.rpy", line 154, in execute
-    screen say:
-  File "game/screens.rpy", line 154, in execute
-    screen say:
-  File "game/screens.rpy", line 155, in execute
-    window:
-  File "game/screens.rpy", line 159, in execute
-    imagebutton:
-  File "C:\Users\Lenovo\renpy-6.99.10-sdk\renpy\ui.py", line 923, in _imagebutton
-    **properties)
-  File "C:\Users\Lenovo\renpy-6.99.10-sdk\renpy\display\behavior.py", line 880, in __init__
-    idle_ = renpy.easy.displayable(idle_image),
-  File "C:\Users\Lenovo\renpy-6.99.10-sdk\renpy\easy.py", line 92, in displayable
-    raise Exception("Not a displayable: %r" % (d,))
-Exception: Not a displayable: None
+  File "lib/windows-i686/ii_eroge_prologue.rpyc", line 71, in script
+  File "C:\Users\Lenovo\renpy-6.99.10-sdk\renpy\ast.py", line 806, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\Lenovo\renpy-6.99.10-sdk\renpy\python.py", line 1577, in py_exec_bytecode
+    exec bytecode in globals, locals
+  File "game/ii_eroge_prologue.rpy", line 71, in <module>
+    $ set_mode_nvl()
+NameError: name 'set_mode_nvl' is not defined
 
 Windows-8-6.2.9200
 Ren'Py 6.99.10.1227
